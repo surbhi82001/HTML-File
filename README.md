@@ -1,2 +1,4 @@
 # HTML-File
-This is my first repository. Auther: Surbhi sinha.
+This is my first repository. 
+<br>
+Auther: Surbhi sinha.
